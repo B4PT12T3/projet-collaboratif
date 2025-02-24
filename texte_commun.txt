@@ -5,4 +5,12 @@ L’un des objectifs fondamentaux des systèmes d’IA éthiques est de promouvo
 
 Pour atteindre ces objectifs, une évaluation rigoureuse des impacts de l’IA est nécessaire avant et pendant son déploiement. Cela implique de prendre en compte non seulement les utilisateurs directs des systèmes, mais aussi les parties prenantes indirectes, y compris les communautés locales et l’écosystème global. Par exemple, les systèmes d’IA à haut risque doivent faire l’objet d’une surveillance continue pour identifier les problèmes potentiels et ajuster leur fonctionnement en conséquence. De même, l’innovation responsable doit être encouragée, en alignant les développements technologiques sur les objectifs de bien-être global.
 
+<<<<<<< HEAD
 L’intelligence artificielle (IA) s’impose comme une force motrice incontournable des transformations sociales, économiques et technologiques actuelles. Pourtant, à mesure que ses applications se multiplient, les interrogations sur son impact éthique et les cadres réglementaires à adopter se font de plus en plus pressantes.
+=======
+III. Éthique dès la conception : un impératif pour les développeurs. 
+
+Au-delà des interdictions, le RIA insiste sur l'éthique dès la conception des systèmes d'IA. Cette approche proactive vise à anticiper et à réduire les risques dès les prmeières étapes du développement. Elle repose sur plusieurs axes, notamment la transaprence, la sécurité et la gouvernance des données. Les systèmes doivent être conçus pour minimiser les biais, protéger la confidentialité des utilisateurs et garantir un audit rigoureux tout au long de leur cycle de vie. 
+
+Dans la pratique, cette éthique dès la conception implique de surveiller chaque étape du développement, de la collecte des données à l'utilisation des algorithmes. Par exemple, les données d'entraînement doivent respecter les principes du Règlement général sur la protection des données (RGPD), évitant ainsi les violations des droits à la vie privée. De même, des modèles de fouvernance des données robustes doivent être mis en place pour prévenir les dérives potentielles, tout en établissant des mécanismes de traçabilité et de responsabilisation.
+>>>>>>> 9bb54ec (paragraphe3)
